@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Block Instagram feed & explore & reels
 // @namespace    https://github.com/Mathis-Gasparotto/tampermonkey-scripts/tree/master/scripts/maggio
-// @version      0.1.1
+// @version      0.1.2
 // @updateURL    https://mathis-gasparotto.github.io/tampermonkey-scripts/scripts/maggio/noInstagramFeed&Explore&Reels.js
 // @downloadURL  https://mathis-gasparotto.github.io/tampermonkey-scripts/scripts/maggio/noInstagramFeed&Explore&Reels.js
 // @description  Save your time
@@ -27,7 +27,7 @@
   `)
   if (window.onurlchange === null) {
     window.addEventListener('urlchange', () => {
-      if (window.location.href.includes('/explore') || window.location.href.includes('/reels') || window.location.href === 'https://www.instagram.com/') {
+      if (window.location.href.includes('/reels') || window.location.href === 'https://www.instagram.com/') {
         window.location.href = 'https://www.instagram.com/direct/inbox/'
       }
     })
