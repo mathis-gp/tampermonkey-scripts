@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Disable target="_blank" on Aliexpress items
-// @namespace    https://github.com/Mathis-Gasparotto/tampermonkey-scripts/tree/master/scripts/maggio
+// @namespace    https://github.com/mathis-gp/tampermonkey-scripts/tree/master/scripts/maggio
 // @version      0.1.5
-// @updateURL    https://mathis-gasparotto.github.io/tampermonkey-scripts/scripts/maggio/noTargetBlankOnAliexpressItems.js
-// @downloadURL  https://mathis-gasparotto.github.io/tampermonkey-scripts/scripts/maggio/noTargetBlankOnAliexpressItems.js
+// @updateURL    https://mathis-gp.github.io/tampermonkey-scripts/scripts/maggio/noTargetBlankOnAliexpressItems.js
+// @downloadURL  https://mathis-gp.github.io/tampermonkey-scripts/scripts/maggio/noTargetBlankOnAliexpressItems.js
 // @description  Oui
 // @author       Maggio
 // @match        https://aliexpress.com/*

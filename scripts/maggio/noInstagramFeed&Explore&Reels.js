@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Block Instagram feed & explore & reels
-// @namespace    https://github.com/Mathis-Gasparotto/tampermonkey-scripts/tree/master/scripts/maggio
+// @namespace    https://github.com/mathis-gp/tampermonkey-scripts/tree/master/scripts/maggio
 // @version      0.1.2
-// @updateURL    https://mathis-gasparotto.github.io/tampermonkey-scripts/scripts/maggio/noInstagramFeed&Explore&Reels.js
-// @downloadURL  https://mathis-gasparotto.github.io/tampermonkey-scripts/scripts/maggio/noInstagramFeed&Explore&Reels.js
+// @updateURL    https://mathis-gp.github.io/tampermonkey-scripts/scripts/maggio/noInstagramFeed&Explore&Reels.js
+// @downloadURL  https://mathis-gp.github.io/tampermonkey-scripts/scripts/maggio/noInstagramFeed&Explore&Reels.js
 // @description  Save your time
 // @author       Maggio
 // @match        https://www.instagram.com/*

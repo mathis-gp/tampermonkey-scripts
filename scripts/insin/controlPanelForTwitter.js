@@ -10,8 +10,8 @@
 // @match        https://mobile.x.com/*
 // @run-at       document-start
 // @version      157
-// @downloadURL  https://mathis-gasparotto.github.io/tampermonkey-scripts/scripts/insin/controlPanelForTwitter.js
-// @updateURL    https://mathis-gasparotto.github.io/tampermonkey-scripts/scripts/insin/controlPanelForTwitter.js
+// @downloadURL  https://mathis-gp.github.io/tampermonkey-scripts/scripts/insin/controlPanelForTwitter.js
+// @updateURL    https://mathis-gp.github.io/tampermonkey-scripts/scripts/insin/controlPanelForTwitter.js
 // ==/UserScript==
 void function() {
 

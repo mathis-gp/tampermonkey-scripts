@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Remove search params from path on Aliexpress
-// @namespace    https://github.com/Mathis-Gasparotto/tampermonkey-scripts/tree/master/scripts/maggio
+// @namespace    https://github.com/mathis-gp/tampermonkey-scripts/tree/master/scripts/maggio
 // @version      0.1.16
-// @updateURL    https://mathis-gasparotto.github.io/tampermonkey-scripts/scripts/maggio/removeSearchParamsAliexpress.js
-// @downloadURL  https://mathis-gasparotto.github.io/tampermonkey-scripts/scripts/maggio/removeSearchParamsAliexpress.js
+// @updateURL    https://mathis-gp.github.io/tampermonkey-scripts/scripts/maggio/removeSearchParamsAliexpress.js
+// @downloadURL  https://mathis-gp.github.io/tampermonkey-scripts/scripts/maggio/removeSearchParamsAliexpress.js
 // @description  bye bye huge links on Aliexpress
 // @author       Maggio
 // @match        https://*.aliexpress.com/*

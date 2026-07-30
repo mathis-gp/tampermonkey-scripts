@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Remove Shorts from Youtube
-// @namespace    https://github.com/Mathis-Gasparotto/tampermonkey-scripts/tree/master/scripts/maggio
+// @namespace    https://github.com/mathis-gp/tampermonkey-scripts/tree/master/scripts/maggio
 // @version      0.5.0
-// @updateURL    https://mathis-gasparotto.github.io/tampermonkey-scripts/scripts/maggio/noYoutubeShort.js
-// @downloadURL  https://mathis-gasparotto.github.io/tampermonkey-scripts/scripts/maggio/noYoutubeShort.js
+// @updateURL    https://mathis-gp.github.io/tampermonkey-scripts/scripts/maggio/noYoutubeShort.js
+// @downloadURL  https://mathis-gp.github.io/tampermonkey-scripts/scripts/maggio/noYoutubeShort.js
 // @description  Save your time
 // @author       Maggio
 // @match        https://www.youtube.com/*

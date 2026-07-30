@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Display product stocks from OPS Store
-// @namespace    https://github.com/Mathis-Gasparotto/tampermonkey-scripts/tree/master/scripts/maggio
+// @namespace    https://github.com/mathis-gp/tampermonkey-scripts/tree/master/scripts/maggio
 // @version      0.0.4
-// @updateURL    https://mathis-gasparotto.github.io/tampermonkey-scripts/scripts/maggio/displayProcutStocksOpsStore.js
-// @downloadURL  https://mathis-gasparotto.github.io/tampermonkey-scripts/scripts/maggio/displayProcutStocksOpsStore.js
+// @updateURL    https://mathis-gp.github.io/tampermonkey-scripts/scripts/maggio/displayProcutStocksOpsStore.js
+// @downloadURL  https://mathis-gp.github.io/tampermonkey-scripts/scripts/maggio/displayProcutStocksOpsStore.js
 // @description  Get and display product stocks from OPS Store
 // @author       Maggio
 // @match        https://www.ops-store.fr/*.html

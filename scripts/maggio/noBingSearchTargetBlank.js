@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Disable target="_blank" on Bing Search
-// @namespace    https://github.com/Mathis-Gasparotto/tampermonkey-scripts/tree/master/scripts/maggio
+// @namespace    https://github.com/mathis-gp/tampermonkey-scripts/tree/master/scripts/maggio
 // @version      0.1.3
-// @updateURL    https://mathis-gasparotto.github.io/tampermonkey-scripts/scripts/maggio/noBingSearchTargetBlank.js
-// @downloadURL  https://mathis-gasparotto.github.io/tampermonkey-scripts/scripts/maggio/noBingSearchTargetBlank.js
+// @updateURL    https://mathis-gp.github.io/tampermonkey-scripts/scripts/maggio/noBingSearchTargetBlank.js
+// @downloadURL  https://mathis-gp.github.io/tampermonkey-scripts/scripts/maggio/noBingSearchTargetBlank.js
 // @description  Prevent Bing Search from opening links in a new tab (on default settings) by removing the target="_blank" attribute on search results links
 // @author       Maggio
 // @match        https://bing.com/search?*

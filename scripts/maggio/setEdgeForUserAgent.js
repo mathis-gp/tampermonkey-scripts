@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Set Edge for user-agent
-// @namespace    https://github.com/Mathis-Gasparotto/tampermonkey-scripts/tree/master/scripts/maggio
+// @namespace    https://github.com/mathis-gp/tampermonkey-scripts/tree/master/scripts/maggio
 // @version      0.1.1
-// @updateURL    https://mathis-gasparotto.github.io/tampermonkey-scripts/scripts/maggio/setEdgeForUserAgent.js
-// @downloadURL  https://mathis-gasparotto.github.io/tampermonkey-scripts/scripts/maggio/setEdgeForUserAgent.js
+// @updateURL    https://mathis-gp.github.io/tampermonkey-scripts/scripts/maggio/setEdgeForUserAgent.js
+// @downloadURL  https://mathis-gp.github.io/tampermonkey-scripts/scripts/maggio/setEdgeForUserAgent.js
 // @description  try to take over the world!
 // @author       Maggio
 // @match        https://www.bing.com/search*

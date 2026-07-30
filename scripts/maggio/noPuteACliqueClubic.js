@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         No pute à click Clubic
-// @namespace    https://github.com/Mathis-Gasparotto/tampermonkey-scripts/tree/master/scripts/maggio
+// @namespace    https://github.com/mathis-gp/tampermonkey-scripts/tree/master/scripts/maggio
 // @version      0.2.1
-// @updateURL    https://mathis-gasparotto.github.io/tampermonkey-scripts/scripts/maggio/noPuteACliqueClubic.js
-// @downloadURL  https://mathis-gasparotto.github.io/tampermonkey-scripts/scripts/maggio/noPuteACliqueClubic.js
+// @updateURL    https://mathis-gp.github.io/tampermonkey-scripts/scripts/maggio/noPuteACliqueClubic.js
+// @downloadURL  https://mathis-gp.github.io/tampermonkey-scripts/scripts/maggio/noPuteACliqueClubic.js
 // @description  NTM Clubic
 // @author       Maggio
 // @match        https://www.clubic.com/*

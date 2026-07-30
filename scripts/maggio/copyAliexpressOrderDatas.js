@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Copy Aliexpress order datas
-// @namespace    https://github.com/Mathis-Gasparotto/tampermonkey-scripts/tree/master/scripts/maggio
+// @namespace    https://github.com/mathis-gp/tampermonkey-scripts/tree/master/scripts/maggio
 // @version      0.1.8
-// @updateURL    https://mathis-gasparotto.github.io/tampermonkey-scripts/scripts/maggio/copyAliexpressOrderDatas.js
-// @downloadURL  https://mathis-gasparotto.github.io/tampermonkey-scripts/scripts/maggio/copyAliexpressOrderDatas.js
+// @updateURL    https://mathis-gp.github.io/tampermonkey-scripts/scripts/maggio/copyAliexpressOrderDatas.js
+// @downloadURL  https://mathis-gp.github.io/tampermonkey-scripts/scripts/maggio/copyAliexpressOrderDatas.js
 // @description  Copy Aliexpress order datas for past on a google sheet
 // @author       Maggio
 // @match        https://www.aliexpress.com/p/order/index.html

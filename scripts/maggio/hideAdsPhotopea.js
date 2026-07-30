@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Hide ads pannel on Photopea
-// @namespace    https://github.com/Mathis-Gasparotto/tampermonkey-scripts/tree/master/scripts/maggio
+// @namespace    https://github.com/mathis-gp/tampermonkey-scripts/tree/master/scripts/maggio
 // @version      0.1.0
-// @updateURL    https://mathis-gasparotto.github.io/tampermonkey-scripts/scripts/maggio/hideAdsPhotopea.js
-// @downloadURL  https://mathis-gasparotto.github.io/tampermonkey-scripts/scripts/maggio/hideAdsPhotopea.js
+// @updateURL    https://mathis-gp.github.io/tampermonkey-scripts/scripts/maggio/hideAdsPhotopea.js
+// @downloadURL  https://mathis-gp.github.io/tampermonkey-scripts/scripts/maggio/hideAdsPhotopea.js
 // @description  No ads on Photopea without ads blocker
 // @author       Maggio
 // @match        https://www.photopea.com/*

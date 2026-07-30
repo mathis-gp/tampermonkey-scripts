@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         No premium ad on Finary
-// @namespace    https://github.com/Mathis-Gasparotto/tampermonkey-scripts/tree/master/scripts/maggio
+// @namespace    https://github.com/mathis-gp/tampermonkey-scripts/tree/master/scripts/maggio
 // @version      0.0.2
-// @updateURL    https://mathis-gasparotto.github.io/tampermonkey-scripts/scripts/maggio/noPremiumAdOnFinary.js
-// @downloadURL  https://mathis-gasparotto.github.io/tampermonkey-scripts/scripts/maggio/noPremiumAdOnFinary.js
+// @updateURL    https://mathis-gp.github.io/tampermonkey-scripts/scripts/maggio/noPremiumAdOnFinary.js
+// @downloadURL  https://mathis-gp.github.io/tampermonkey-scripts/scripts/maggio/noPremiumAdOnFinary.js
 // @description  No premium ad on Finary
 // @author       Maggio
 // @match        https://app.finary.com/v2/*
@@ -29,4 +29,12 @@
   if (window.onurlchange === null) {
     window.addEventListener('urlchange', redirectIfPremiumModal)
   }
+
+  // body[data-scroll-locked]
+
+  // GM_addStyle(`
+  //   ._8fmo7d4 {
+  //     display: none !important;
+  //   }
+  // `)
 })()

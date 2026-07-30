@@ -10,8 +10,8 @@
 // @name:ru             Загрузчик Instagram
 // @namespace           https://github.com/y252328/Instagram_Download_Button
 // @version             1.16.0
-// @updateURL           https://mathis-gasparotto.github.io/tampermonkey-scripts/scripts/zhiyu/instagramDownloadButton.js
-// @downloadURL         https://mathis-gasparotto.github.io/tampermonkey-scripts/scripts/zhiyu/instagramDownloadButton.js
+// @updateURL           https://mathis-gp.github.io/tampermonkey-scripts/scripts/zhiyu/instagramDownloadButton.js
+// @downloadURL         https://mathis-gp.github.io/tampermonkey-scripts/scripts/zhiyu/instagramDownloadButton.js
 // @compatible          chrome
 // @compatible          firefox
 // @compatible          edge

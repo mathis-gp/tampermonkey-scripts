@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Display places available on Maisavia
-// @namespace    https://github.com/Mathis-Gasparotto/tampermonkey-scripts/tree/master/scripts/maggio
+// @namespace    https://github.com/mathis-gp/tampermonkey-scripts/tree/master/scripts/maggio
 // @version      0.0.1
-// @updateURL    https://mathis-gasparotto.github.io/tampermonkey-scripts/scripts/maggio/displayPlacesAvailableOnMaisavia.js
-// @downloadURL  https://mathis-gasparotto.github.io/tampermonkey-scripts/scripts/maggio/displayPlacesAvailableOnMaisavia.js
+// @updateURL    https://mathis-gp.github.io/tampermonkey-scripts/scripts/maggio/displayPlacesAvailableOnMaisavia.js
+// @downloadURL  https://mathis-gp.github.io/tampermonkey-scripts/scripts/maggio/displayPlacesAvailableOnMaisavia.js
 // @description  Get and display places available on Maisavia
 // @author       Maggio
 // @match        https://www.maisavia.fr/product/*

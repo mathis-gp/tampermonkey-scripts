@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         No sub counter YT
-// @namespace    https://github.com/Mathis-Gasparotto/tampermonkey-scripts/tree/master/scripts/maggio
+// @namespace    https://github.com/mathis-gp/tampermonkey-scripts/tree/master/scripts/maggio
 // @version      0.1.2
-// @updateURL    https://mathis-gasparotto.github.io/tampermonkey-scripts/scripts/maggio/noSubCounterYT.js
-// @downloadURL  https://mathis-gasparotto.github.io/tampermonkey-scripts/scripts/maggio/noSubCounterYT.js
+// @updateURL    https://mathis-gp.github.io/tampermonkey-scripts/scripts/maggio/noSubCounterYT.js
+// @downloadURL  https://mathis-gp.github.io/tampermonkey-scripts/scripts/maggio/noSubCounterYT.js
 // @description  hidden channel sub counter on YouTube
 // @author       Maggio
 // @match        https://www.youtube.com/*

@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Remove the "No AdBlock" && cookies modals on L'Équipe
-// @namespace    https://github.com/Mathis-Gasparotto/tampermonkey-scripts/tree/master/scripts/maggio
+// @namespace    https://github.com/mathis-gp/tampermonkey-scripts/tree/master/scripts/maggio
 // @version      0.1.0
-// @updateURL    https://mathis-gasparotto.github.io/tampermonkey-scripts/scripts/maggio/lequipeModals.js
-// @downloadURL  https://mathis-gasparotto.github.io/tampermonkey-scripts/scripts/maggio/lequipeModals.js
+// @updateURL    https://mathis-gp.github.io/tampermonkey-scripts/scripts/maggio/lequipeModals.js
+// @downloadURL  https://mathis-gp.github.io/tampermonkey-scripts/scripts/maggio/lequipeModals.js
 // @description  Remove the "No AdBlock" && cookies modals on L'Équipe
 // @author       Maggio
 // @match        https://www.lequipe.fr/*

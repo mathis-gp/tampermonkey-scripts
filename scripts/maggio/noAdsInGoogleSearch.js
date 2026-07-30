@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         No ads results on google search
-// @namespace    https://github.com/Mathis-Gasparotto/tampermonkey-scripts/tree/master/scripts/maggio
+// @namespace    https://github.com/mathis-gp/tampermonkey-scripts/tree/master/scripts/maggio
 // @version      0.1.0
-// @updateURL    https://mathis-gasparotto.github.io/tampermonkey-scripts/scripts/maggio/noAdsInGoogleSearch.js
-// @downloadURL  https://mathis-gasparotto.github.io/tampermonkey-scripts/scripts/maggio/noAdsInGoogleSearch.js
+// @updateURL    https://mathis-gp.github.io/tampermonkey-scripts/scripts/maggio/noAdsInGoogleSearch.js
+// @downloadURL  https://mathis-gp.github.io/tampermonkey-scripts/scripts/maggio/noAdsInGoogleSearch.js
 // @description  no ads results on google search
 // @author       Maggio
 // @match        *.google.com/search?*

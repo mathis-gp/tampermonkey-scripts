@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Timer to redirect on other URL
-// @namespace    https://github.com/Mathis-Gasparotto/tampermonkey-scripts/tree/master/scripts/maggio
+// @namespace    https://github.com/mathis-gp/tampermonkey-scripts/tree/master/scripts/maggio
 // @version      1.1
-// @updateURL    https://mathis-gasparotto.github.io/tampermonkey-scripts/scripts/maggio/timerToRedirect.js
-// @downloadURL  https://mathis-gasparotto.github.io/tampermonkey-scripts/scripts/maggio/timerToRedirect.js
+// @updateURL    https://mathis-gp.github.io/tampermonkey-scripts/scripts/maggio/timerToRedirect.js
+// @downloadURL  https://mathis-gp.github.io/tampermonkey-scripts/scripts/maggio/timerToRedirect.js
 // @description  Set a timer to rediret page to another URL -- open your console  and type timeToRedirect() to start
 // @author       Maggio
 // @match        *://*/*
