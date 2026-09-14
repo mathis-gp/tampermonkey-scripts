@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Copy Aliexpress order datas
 // @namespace    https://github.com/mathis-gp/tampermonkey-scripts/tree/master/scripts/maggio
-// @version      0.1.8
+// @version      0.1.9
 // @updateURL    https://mathis-gp.github.io/tampermonkey-scripts/scripts/maggio/copyAliexpressOrderDatas.js
 // @downloadURL  https://mathis-gp.github.io/tampermonkey-scripts/scripts/maggio/copyAliexpressOrderDatas.js
 // @description  Copy Aliexpress order datas for past on a google sheet
@@ -10,7 +10,7 @@
 // @match        https://www.aliexpress.com/p/order/index.html?*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=aliexpress.com
 // @grant        none
-// @run-at       document-end
+// @run-at       context-menu
 // ==/UserScript==
 
 (function () {
