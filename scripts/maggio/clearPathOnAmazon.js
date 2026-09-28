@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Clear path on Amazon
 // @namespace    https://github.com/mathis-gp/tampermonkey-scripts/tree/master/scripts/maggio
-// @version      0.2.8
+// @version      0.2.9
 // @updateURL    https://mathis-gp.github.io/tampermonkey-scripts/scripts/maggio/clearPathOnAmazon.js
 // @downloadURL  https://mathis-gp.github.io/tampermonkey-scripts/scripts/maggio/clearPathOnAmazon.js
 // @description  Bye bye huge paths on Amazon
@@ -19,6 +19,10 @@
 // @exclude      https://amazon.fr/s?*
 // @exclude      https://*.amazon.com/s?*
 // @exclude      https://amazon.com/s?*
+// @exclude      https://*.amazon.fr/*/search?*
+// @exclude      https://amazon.fr/*/search?*
+// @exclude      https://*.amazon.com/*/search?*
+// @exclude      https://amazon.com/*/search?*
 // @exclude      https://*.aws.amazon.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=amazon.fr
 // @grant        none
