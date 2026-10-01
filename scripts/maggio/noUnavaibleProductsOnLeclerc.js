@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         No unavaible products on Leclerc search results
 // @namespace    https://github.com/mathis-gp/tampermonkey-scripts/tree/master/scripts/maggio
-// @version      0.1.1
+// @version      0.1.2
 // @updateURL    https://mathis-gp.github.io/tampermonkey-scripts/scripts/maggio/noUnavaibleProductsOnLeclerc.js
 // @downloadURL  https://mathis-gp.github.io/tampermonkey-scripts/scripts/maggio/noUnavaibleProductsOnLeclerc.js
 // @description  disable unavaible products on Leclerc search results
@@ -22,4 +22,5 @@
     `)
   }
   window.onurlchange = addStyle;
+  addStyle();
 })();
